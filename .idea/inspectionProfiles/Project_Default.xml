@@ -1,0 +1,97 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="73">
+            <item index="0" class="java.lang.String" itemvalue="kuber-accountant-private" />
+            <item index="1" class="java.lang.String" itemvalue="pyboot-postgres" />
+            <item index="2" class="java.lang.String" itemvalue="gunicorn" />
+            <item index="3" class="java.lang.String" itemvalue="sabpaisa" />
+            <item index="4" class="java.lang.String" itemvalue="exceptiom" />
+            <item index="5" class="java.lang.String" itemvalue="tzlocal" />
+            <item index="6" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="7" class="java.lang.String" itemvalue="mypy" />
+            <item index="8" class="java.lang.String" itemvalue="python-dateutil" />
+            <item index="9" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="10" class="java.lang.String" itemvalue="PlanOut" />
+            <item index="11" class="java.lang.String" itemvalue="python-json-logger" />
+            <item index="12" class="java.lang.String" itemvalue="elasticsearch" />
+            <item index="13" class="java.lang.String" itemvalue="razorpay" />
+            <item index="14" class="java.lang.String" itemvalue="shortuuid" />
+            <item index="15" class="java.lang.String" itemvalue="cerberus" />
+            <item index="16" class="java.lang.String" itemvalue="pyparsing" />
+            <item index="17" class="java.lang.String" itemvalue="boto3-batch-utils" />
+            <item index="18" class="java.lang.String" itemvalue="xlrd" />
+            <item index="19" class="java.lang.String" itemvalue="fuzzywuzzy" />
+            <item index="20" class="java.lang.String" itemvalue="Flask-Caching" />
+            <item index="21" class="java.lang.String" itemvalue="beautifulsoup4" />
+            <item index="22" class="java.lang.String" itemvalue="google-crc32c" />
+            <item index="23" class="java.lang.String" itemvalue="Werkzeug" />
+            <item index="24" class="java.lang.String" itemvalue="boto" />
+            <item index="25" class="java.lang.String" itemvalue="credstash" />
+            <item index="26" class="java.lang.String" itemvalue="pylama" />
+            <item index="27" class="java.lang.String" itemvalue="cryptography" />
+            <item index="28" class="java.lang.String" itemvalue="pprofile" />
+            <item index="29" class="java.lang.String" itemvalue="dataclasses-json" />
+            <item index="30" class="java.lang.String" itemvalue="boto3" />
+            <item index="31" class="java.lang.String" itemvalue="paramiko" />
+            <item index="32" class="java.lang.String" itemvalue="redis-py-cluster" />
+            <item index="33" class="java.lang.String" itemvalue="twilio" />
+            <item index="34" class="java.lang.String" itemvalue="flask_restful" />
+            <item index="35" class="java.lang.String" itemvalue="datalogger" />
+            <item index="36" class="java.lang.String" itemvalue="radon" />
+            <item index="37" class="java.lang.String" itemvalue="PyJWT" />
+            <item index="38" class="java.lang.String" itemvalue="mailgun2" />
+            <item index="39" class="java.lang.String" itemvalue="alembic" />
+            <item index="40" class="java.lang.String" itemvalue="firebase-admin" />
+            <item index="41" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="42" class="java.lang.String" itemvalue="onfido" />
+            <item index="43" class="java.lang.String" itemvalue="requests" />
+            <item index="44" class="java.lang.String" itemvalue="Jinja2" />
+            <item index="45" class="java.lang.String" itemvalue="newrelic" />
+            <item index="46" class="java.lang.String" itemvalue="XlsxWriter" />
+            <item index="47" class="java.lang.String" itemvalue="celery" />
+            <item index="48" class="java.lang.String" itemvalue="Deprecated" />
+            <item index="49" class="java.lang.String" itemvalue="apscheduler" />
+            <item index="50" class="java.lang.String" itemvalue="flask-cors" />
+            <item index="51" class="java.lang.String" itemvalue="xmltodict" />
+            <item index="52" class="java.lang.String" itemvalue="line_profiler" />
+            <item index="53" class="java.lang.String" itemvalue="Flask" />
+            <item index="54" class="java.lang.String" itemvalue="suds-community" />
+            <item index="55" class="java.lang.String" itemvalue="nose" />
+            <item index="56" class="java.lang.String" itemvalue="argon2" />
+            <item index="57" class="java.lang.String" itemvalue="groestlcoin_hash" />
+            <item index="58" class="java.lang.String" itemvalue="dataclasses" />
+            <item index="59" class="java.lang.String" itemvalue="six" />
+            <item index="60" class="java.lang.String" itemvalue="pytest" />
+            <item index="61" class="java.lang.String" itemvalue="pylama-pylint" />
+            <item index="62" class="java.lang.String" itemvalue="python-memcached" />
+            <item index="63" class="java.lang.String" itemvalue="cashfree-sdk" />
+            <item index="64" class="java.lang.String" itemvalue="asyncio" />
+            <item index="65" class="java.lang.String" itemvalue="cashaddress" />
+            <item index="66" class="java.lang.String" itemvalue="pylint" />
+            <item index="67" class="java.lang.String" itemvalue="cachetools" />
+            <item index="68" class="java.lang.String" itemvalue="pytz" />
+            <item index="69" class="java.lang.String" itemvalue="pycryptodome" />
+            <item index="70" class="java.lang.String" itemvalue="phpserialize" />
+            <item index="71" class="java.lang.String" itemvalue="pillow" />
+            <item index="72" class="java.lang.String" itemvalue="reportlab" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="controller.auth_service.api.*" />
+          <option value="time" />
+          <option value="logging" />
+          <option value="controller.kyc.api.basic_kyc.*" />
+          <option value="test.voucher_service.test_voucher_service.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
